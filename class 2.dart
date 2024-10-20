@@ -11,10 +11,5 @@ void main() {
 // US K BAD (%) Y SIGN HMARA CODING MN GET THE REMINDER OF INTIGER USE HOTA H
 // <= LESS THAN EQUAL TO  |   == EQUAL TO  |  >= GRATER THAN EQUAL TO |  != NOT EQUAL TO  |
 
-
-
-
- //wish you best of luck duao mn yad rkhiega aj ka hmara class yhae p khtm hota h kudha hafiz.
-}
-
+  //wish you best of luck duao mn yad rkhiega aj ka hmara class yhae p khtm hota h kudha hafiz.
 }
