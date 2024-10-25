@@ -4,5 +4,5 @@ void main() {
 
   List studetnsname = [12, 25, 3, 4, 65, 8, 7, 34];
   studetnsname.removeWhere((e) => e > 10);
-  print(studetnsname);
+  print(studetnsname); //  [3,4,8,7]
 }
